@@ -1,5 +1,5 @@
 # EthereumSmartContractsDataset
 Ethereum Smart Contract Dataset
 
-Imran Ashraf
+Imran Ashraf - 
 Email: imranashraf89@gmail.com
